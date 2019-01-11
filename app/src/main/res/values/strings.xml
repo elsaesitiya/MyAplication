@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MoveNow</string>
+
+    <string name="home">Home</string>
+    <string name="notif">Notification</string>
+    <string name="favorite">Favorite</string>
+
+    <string name="read_more">Read More</string>
+    <string name="tayang_tanggal">Tayang tanggal: </string>
+    <string name="setting">Setting</string>
+    <string name="language">Language</string>
+
+    <string name="btnPlayingNow">Playing Now</string>
+    <string name="btnLang">Language</string>
+
+
+    <string name="beranda">Beranda</string>
+    <string name="notifikasi">Notifikasi</string>
+    <string name="favorit">Favorite</string>
+</resources>
